@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Blaisepepe
-- 👀 I’m interested in UX Designer and PHP enthusiast
-- 🌱 I’m currently learning UX design
+- 👀 I’m interested in UX Research and Customer Centricity
+- 🌱 I’m currently learning Data Analytics and Business Intelligence
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
