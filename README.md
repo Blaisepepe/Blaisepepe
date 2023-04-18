@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Blaisepepe
+- 👋 Hi, I’m Chinedu Blaise Nwachukwu
 - 👀 I’m interested in UX Research and Customer Centricity
 - 🌱 I’m currently learning Data Analytics and Business Intelligence
 - 💞️ I’m looking to collaborate on ...
