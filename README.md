@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Chinedu Blaise Nwachukwu
-- 👀 I’m interested in UX Research and Customer Centricity
-- 🌱 I’m currently learning Data Analytics and Business Intelligence
+- 👀 I’m interested in Project Management, Business Analytics and Operations and Customer Centricity
+- 🌱 I’m currently learning Project Management and Data Analytics
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
